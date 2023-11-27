@@ -1,0 +1,74 @@
+c:\users\dtxy\documents\visual studio 2010\Projects\Quxian\Quxian\obj\x86\Debug\Quxian.Form1.resources
+c:\users\dtxy\documents\visual studio 2010\Projects\Quxian\Quxian\obj\x86\Debug\Quxian.Properties.Resources.resources
+c:\users\dtxy\documents\visual studio 2010\Projects\Quxian\Quxian\obj\x86\Debug\Quxian.csproj.GenerateResource.Cache
+c:\users\dtxy\documents\visual studio 2010\Projects\Quxian\Quxian\bin\Debug\Quxian.exe
+c:\users\dtxy\documents\visual studio 2010\Projects\Quxian\Quxian\bin\Debug\Quxian.pdb
+c:\users\dtxy\documents\visual studio 2010\Projects\Quxian\Quxian\obj\x86\Debug\Quxian.exe
+c:\users\dtxy\documents\visual studio 2010\Projects\Quxian\Quxian\obj\x86\Debug\Quxian.pdb
+C:\Users\Lenovo\Desktop\Quxian\Quxian\bin\Debug\Quxian.exe
+C:\Users\Lenovo\Desktop\Quxian\Quxian\bin\Debug\Quxian.pdb
+C:\Users\Lenovo\Desktop\Quxian\Quxian\obj\x86\Debug\Quxian.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Quxian\Quxian\obj\x86\Debug\Quxian.Form1.resources
+C:\Users\Lenovo\Desktop\Quxian\Quxian\obj\x86\Debug\Quxian.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Quxian\Quxian\obj\x86\Debug\Quxian.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Quxian\Quxian\obj\x86\Debug\Quxian.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Quxian\Quxian\obj\x86\Debug\Quxian.exe
+C:\Users\Lenovo\Desktop\Quxian\Quxian\obj\x86\Debug\Quxian.pdb
+C:\Users\Lenovo\Desktop\kikk\Quxian\Quxian\bin\Debug\Quxian.exe
+C:\Users\Lenovo\Desktop\kikk\Quxian\Quxian\bin\Debug\Quxian.pdb
+C:\Users\Lenovo\Desktop\kikk\Quxian\Quxian\obj\x86\Debug\Quxian.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\kikk\Quxian\Quxian\obj\x86\Debug\Quxian.Form1.resources
+C:\Users\Lenovo\Desktop\kikk\Quxian\Quxian\obj\x86\Debug\Quxian.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\kikk\Quxian\Quxian\obj\x86\Debug\Quxian.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\kikk\Quxian\Quxian\obj\x86\Debug\Quxian.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\kikk\Quxian\Quxian\obj\x86\Debug\Quxian.exe
+C:\Users\Lenovo\Desktop\kikk\Quxian\Quxian\obj\x86\Debug\Quxian.pdb
+C:\Users\Lenovo\Desktop\kikk\Quxian\Quxian\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\kikk\Quxian\Quxian\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\Desktop\kikk\Quxian\Quxian\obj\x86\Debug\Quxian.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BsaierQuxian\Quxian\bin\Debug\Quxian.exe
+C:\Users\Lenovo\Desktop\BsaierQuxian\Quxian\bin\Debug\Quxian.pdb
+C:\Users\Lenovo\Desktop\BsaierQuxian\Quxian\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\BsaierQuxian\Quxian\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\Desktop\BsaierQuxian\Quxian\obj\x86\Debug\Quxian.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BsaierQuxian\Quxian\obj\x86\Debug\Quxian.Form1.resources
+C:\Users\Lenovo\Desktop\BsaierQuxian\Quxian\obj\x86\Debug\Quxian.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\BsaierQuxian\Quxian\obj\x86\Debug\Quxian.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\BsaierQuxian\Quxian\obj\x86\Debug\Quxian.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BsaierQuxian\Quxian\obj\x86\Debug\Quxian.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BsaierQuxian\Quxian\obj\x86\Debug\Quxian.exe
+C:\Users\Lenovo\Desktop\BsaierQuxian\Quxian\obj\x86\Debug\Quxian.pdb
+C:\Users\Lenovo\Desktop\Bezier曲线\Quxian\bin\Debug\Quxian.exe
+C:\Users\Lenovo\Desktop\Bezier曲线\Quxian\bin\Debug\Quxian.pdb
+C:\Users\Lenovo\Desktop\Bezier曲线\Quxian\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\Bezier曲线\Quxian\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\Desktop\Bezier曲线\Quxian\obj\x86\Debug\Quxian.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Bezier曲线\Quxian\obj\x86\Debug\Quxian.Form1.resources
+C:\Users\Lenovo\Desktop\Bezier曲线\Quxian\obj\x86\Debug\Quxian.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Bezier曲线\Quxian\obj\x86\Debug\Quxian.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Bezier曲线\Quxian\obj\x86\Debug\Quxian.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Bezier曲线\Quxian\obj\x86\Debug\Quxian.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Bezier曲线\Quxian\obj\x86\Debug\Quxian.exe
+C:\Users\Lenovo\Desktop\Bezier曲线\Quxian\obj\x86\Debug\Quxian.pdb
+C:\Users\DTxy\Desktop\Bezier曲线\Quxian\obj\x86\Debug\Quxian.exe
+C:\Users\DTxy\Desktop\Bezier曲线\Quxian\obj\x86\Debug\Quxian.pdb
+C:\Users\DTxy\Desktop\Bezier曲线\Quxian\bin\Debug\Quxian.exe
+C:\Users\DTxy\Desktop\Bezier曲线\Quxian\bin\Debug\Quxian.pdb
+C:\Users\DTxy\Desktop\Bezier曲线\Quxian\bin\Debug\System.ValueTuple.dll
+C:\Users\DTxy\Desktop\Bezier曲线\Quxian\bin\Debug\System.ValueTuple.xml
+C:\Users\DTxy\Desktop\Bezier曲线\Quxian\obj\x86\Debug\Quxian.csprojResolveAssemblyReference.cache
+C:\Users\DTxy\Desktop\Bezier曲线\Quxian\obj\x86\Debug\Quxian.Form1.resources
+C:\Users\DTxy\Desktop\Bezier曲线\Quxian\obj\x86\Debug\Quxian.Properties.Resources.resources
+C:\Users\DTxy\Desktop\Bezier曲线\Quxian\obj\x86\Debug\Quxian.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Bezier曲线1\Quxian\bin\Debug\Quxian.exe
+C:\Users\Lenovo\Desktop\Bezier曲线1\Quxian\bin\Debug\Quxian.pdb
+C:\Users\Lenovo\Desktop\Bezier曲线1\Quxian\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\Bezier曲线1\Quxian\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\Desktop\Bezier曲线1\Quxian\obj\x86\Debug\Quxian.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Bezier曲线1\Quxian\obj\x86\Debug\Quxian.Form1.resources
+C:\Users\Lenovo\Desktop\Bezier曲线1\Quxian\obj\x86\Debug\Quxian.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Bezier曲线1\Quxian\obj\x86\Debug\Quxian.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Bezier曲线1\Quxian\obj\x86\Debug\Quxian.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Bezier曲线1\Quxian\obj\x86\Debug\Quxian.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Bezier曲线1\Quxian\obj\x86\Debug\Quxian.exe
+C:\Users\Lenovo\Desktop\Bezier曲线1\Quxian\obj\x86\Debug\Quxian.pdb
